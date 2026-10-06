@@ -21,7 +21,6 @@ Ao longo da graduação, pretendo utilizar este espaço para registrar minha evo
 
 - 🤍 Direito Civil
 - 🌷 Direito Trabalhista
-- 📑 Direito Empresarial
 - 🛡️ LGPD e Proteção de Dados
 - 🔎 Pesquisa Jurídica
 - ✍️ Redação Jurídica
