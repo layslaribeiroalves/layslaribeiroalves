@@ -101,9 +101,9 @@ Universidade Santo Amaro — UNISA
 
 ## 💌 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laysla%20Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysla-a-r-alves/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LAYSLA%20RIBEIRO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysla-a-r-alves/)
 
-📧 **E-mail:** layslaribeiroalves@gmail.com
+📧 **E-mail:** [layslaribeiroalves@gmail.com](mailto:layslaribeiroalves@gmail.com)
 
 ---
 
